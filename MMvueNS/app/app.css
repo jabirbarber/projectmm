@@ -1,0 +1,11 @@
+@import 'nativescript-theme-core/css/core.light.css';
+
+/* Your CSS goes here */
+
+list-view {
+	height: 100%;
+}
+
+.postslist {
+	margin: 50px;
+}
